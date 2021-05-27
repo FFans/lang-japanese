@@ -10,9 +10,7 @@ clarkwinkelmann-emojionearea:
       enableTones: 肌色の選択をオンにする
       filtersPosition: 下部にカテゴリを表示
       hideFlarumButton: 'FLarum 絵文字ボタンを隠す'
-      hideFlarumButtonHelp: 'このプラグインを有効にするには emoji プラグインが必要です'
       searchPosition: 下部に検索とスキントーンを表示する
-      title: 絵文字設定
   forum:
     picker_button: 絵文字
     search_placeholder: 絵文字を検索する...

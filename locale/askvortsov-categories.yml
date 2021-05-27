@@ -28,8 +28,6 @@ askvortsov-categories:
       categories_link: 掲示板一覧
     last_discussion_widget:
       no_discussions: スレッドなし
-    meta:
-      categories_title: 掲示板リスト
     stat-widgets:
       discussion_label: スレッド
       post_label: 投稿数

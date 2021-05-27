@@ -8,7 +8,6 @@ fof-discussion-language:
       allow_change_language_label: 許可された編集言語
     settings:
       native_label: 母語を使う
-      title: 'FoF スレッド言語'
   api:
     discussion:
       validation_error: スレッドの言語を指定する必要があります。

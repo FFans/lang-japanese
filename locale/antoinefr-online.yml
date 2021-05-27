@@ -6,7 +6,6 @@ antoinefr-online:
   admin:
     settings:
       displaymax: 表示する数量
-      title: 設定する
       titleoflist: カスタムリストのタイトル
   forum:
     andmore: 'さらに {more} 人 ...'

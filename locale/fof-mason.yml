@@ -24,8 +24,6 @@ fof-mason:
       icon-help: "このフィールドの前に小さなアイコンが表示されます。 利用可能なアイコンは <a>FontAwesome</a> をご覧ください，接頭辞を含む完全なチャートクラス名を使用します。例：「fas fa-bolt」。\n"
       icon-preview: 'プレビュー： {preview}'
       is_suggested: ユーザーに提案を表示する
-      max_answers_count: 回答の最大数
-      min_answers_count: 回答の最小数
       name: フィールド名
       name-help: "一般に表示され、翻訳できないフィールドラベル\n"
       new-answer-placeholder: 一部のテキスト
@@ -37,14 +35,11 @@ fof-mason:
       user_values_allowed-help: "有効にすると、ユーザーは管理者が定義した値の代わりに独自の値を追加できます。 これらの値は、検証設定に従ってチェックされます。 無効にした場合、「推奨」回答のみを使用できます。\n"
       validation: ユーザー入力を確認する
       validation-help: "サポートされている <a>Laravel validation rules</a> を参照してください。例： \"string|min:5\" または \"url\"。\n"
-    menu:
-      description: "カスタム投稿フィールドを設定する\n"
     messages:
       delete-answer-confirmation: "回答「{content}」を削除しますか？ これは、それを使用するすべての投稿から削除されます。既存の回答を保持する場合は、回答の提案を無効にしてください。 回答を削除しますか？\n"
       delete-field-confirmation: "フィールド「{name}」を削除してもよろしいですか？ これは、それを使用するすべての投稿から削除されます。 フィールドを削除しますか？\n"
     permissions:
       fill-fields: 新しいトピックのフィールドに入力する
-      mason-heading: Mason
       see-other-fields: すべてのトピックに表示されるフィールド
       see-own-fields: 自身のトピックに表示されるフィールド
       skip-required-fields: 必須フィールドのスキップを許可する

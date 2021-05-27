@@ -4,8 +4,6 @@
 
 fof-reactions:
   admin:
-    nav:
-      desc: カスタム応答を追加して設定を変更する
     page:
       convert:
         button: 古い反応を変換する

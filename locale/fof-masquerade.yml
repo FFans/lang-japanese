@@ -30,12 +30,9 @@ fof-masquerade:
       validation: 検証
       validation-help: "サポートされている <a>Laravel validation rules</a> を参照してください。例： \"string|min:5\" または \"url\"。\n"
     general-options: 一般的なオプション
-    menu:
-      description: "ユーザープロファイルフィールドを構成します。\n"
     permissions:
       have-profile: 仮面舞踏会のプロフィールを持っている
       view-profile: 仮面舞踏会のプロフィールを見る
-    title: 仮面舞踏会
     types:
       advanced: 高度な
       boolean: チェックボックス

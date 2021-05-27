@@ -30,9 +30,6 @@ clarkwinkelmann-scratchpad:
       forum_js: 'フォーラムインターフェース JS'
       forum_less: 'フォーラムインターフェース JS'
       php: PHP
-    menu:
-      description: 開発環境でコードを簡単にテストする
-      title: 開発者付箋
     placeholders:
       js-log: 'Hello, {frontend}!'
       php-comment: 'ここで extender を登録します'

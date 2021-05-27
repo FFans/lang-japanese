@@ -21,4 +21,3 @@ migratetoflarum-canonical:
         suggestions: この拡張機能が適用またはカバーしないその他の提案
         use_hsts: 'HSTS を使用してダウングレード攻撃を防止する'
         use_https: HTTPS正規URLを使用する
-      title: カノニカルのURL設定

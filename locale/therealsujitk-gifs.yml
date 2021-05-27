@@ -4,12 +4,8 @@
 
 therealsujitk:
   admin:
-    about:
-      stringA: プラグイン作成者：
-      stringB: 寄付する：
     gifs:
       giphyAPIkey: 'Giphy API Key'
-      title: 'GIF API 設定'
   forum:
     gifs:
       label: 'GIF を挿入'

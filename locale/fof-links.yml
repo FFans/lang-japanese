@@ -16,12 +16,8 @@ fof-links:
       url_label: '=> fof-links.ref.url'
       url_placeholder: '=> fof-links.ref.url'
     links:
-      about_text: ナビゲーリンクの管理
       create_button: '=> fof-links.ref.create_link'
       links: '=> fof-links.ref.links'
-    nav:
-      links_button: '=> fof-links.ref.links'
-      links_text: ナビゲーリンクの管理
   ref:
     create_link: リンクを追加
     links: ナビゲーリンク

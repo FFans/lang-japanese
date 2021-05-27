@@ -30,9 +30,6 @@ validation:
     string: ':attribute は :min 〜 :max 文字の間になければなりません。'
   boolean: ':attribute ブール値でなければなりません'
   confirmed: ':attribute 一貫性のない2回の入力'
-  custom:
-    username:
-      regex: ユーザー名には、文字、数字、ダッシュ（-）のみを含めることができます
   date: ':attribute 法的日付ではありません'
   date_equals: ':attribute は :date と等しい日付でなければなりません。'
   date_format: ':attribute は :other の形式と一致しません。'

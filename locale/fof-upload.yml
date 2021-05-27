@@ -7,7 +7,6 @@ fof-upload:
     buttons:
       save: 設定を保存する
     help_texts:
-      description: "ファイルアップロードサービスの設定を調整する\n"
       disable-download-logging: "スイッチをオンにすると、フォーラムユーザーのすべてのダウンロード動作のバックグラウンドレコードが無効になります。 ログ保持機能が有効になっている場合、ファイルのダウンロード数およびその他の関連データを表示できます。 （デフォルトで有効）\n"
       disable-hotlink-protection: "盗難防止保護は、 csrf token と post id を検証して、サイト外からのダウンロード要求を防ぐことができます。 （デフォルトで有効）\n"
       download_templates: "ダウンロードテンプレートは、プレビュー、ボタンなど、アップロードがフォーラムに表示される方法です。 現在利用可能：\n"
@@ -33,13 +32,6 @@ fof-upload:
       local:
         cdn_url: 'OSS/CDN ドメイン名（http/https プレフィックス）'
         title: 'ローカル、OSS ストレージ設定'
-      ovh-svfs:
-        container: コンテナ
-        password: パスワード
-        region: 地域
-        tenantid: テナントID
-        title: 'OVH SVFS ストア設定'
-        username: ユーザー名
       preferences:
         max_file_size: 最大ファイルサイズ（KB）
         mime_types: 'MIME タイプに対応するアップロード方法を設定します'
@@ -50,7 +42,6 @@ fof-upload:
         secret: Secret
         title: '七牛 ストア設定（需要 composer require overtrue/flysystem-qiniu）'
       resize:
-        max_height: 最大画像高さ
         max_width: 最大画像幅
         title: 画像のサイズを変更する
         toggle: 開く
@@ -81,5 +72,4 @@ fof-upload:
     states:
       error: 間違った
       loading: 読み込み中
-      success: 成功
       unauthorized: ダウンロードする権限がありません

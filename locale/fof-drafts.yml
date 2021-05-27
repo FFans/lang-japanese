@@ -8,12 +8,10 @@ fof-drafts:
       start: 新しいトピックの下書き
   forum:
     composer:
-      alert: 下書きが保存されました。
       exit_alert: 編集した下書きを破棄しますか？
       title: 下書きを保存
     dropdown:
       alert: 下書きを削除してもよろしいですか？
-      button: 下書きを削除
       empty_text: 下書きがありません
       title: 下書き
       tooltip: '=> fof-drafts.forum.dropdown.title'

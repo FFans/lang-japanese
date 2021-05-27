@@ -27,7 +27,6 @@ askvortsov-moderator-warnings:
       restore_button: 戻す
     warning_list:
       add_button: 警告を送る
-      no-warnings: ここには警告がないようです。
       warnings: '警告：合計 {strikes} 点'
       warnings_no_strikes: 警告
     warning_list_item:
@@ -38,9 +37,7 @@ askvortsov-moderator-warnings:
       public_comment: コメント
     warning_modal:
       confirmation_message: あなたの警告が発せられました。ページを更新しないと表示されない場合があります。
-      dismiss_button: 完全な
       heading: '警告 <strong>{username}</strong>'
-      no_content_given: 空の警告は許可されていません。
       private_comment_heading: 'リマーク。なぜ <strong>{username}</strong>に警告するのですか？リマーク、あなたと他の警告開始者にのみ表示されます。'
       public_comment_heading: 'コメント。なぜ <strong>{username}</strong>に警告するのですか？コメントは、このユーザーと他の警告開始者にのみ表示されます。'
       strikes_heading: 厳しさ：何点ですか？

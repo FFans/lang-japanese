@@ -8,8 +8,6 @@ core:
       hot_button: トレンド
 fof-gamification:
   admin:
-    nav:
-      desc: 'Flarum フォーラムのゲームプレイを強化する'
     page:
       convert:
         button: '“Likes” をアップ投票に変換する'
@@ -54,7 +52,6 @@ fof-gamification:
   forum:
     mod_item: 有権者を表示
     modal:
-      downvotes_label: 相手
       title: 有権者
       upvotes_label: サポーター
     nav:

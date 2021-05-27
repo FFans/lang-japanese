@@ -11,7 +11,6 @@ clarkwinkelmann-status:
     settings:
       enable-text: テキストの状態を許可する
       only-countries: 国旗のみ
-      title: 状態設定
   forum:
     menu:
       set-status: 設定状態

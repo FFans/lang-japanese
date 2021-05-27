@@ -5,7 +5,6 @@
 clarkwinkelmann-carving-contest:
   admin:
     permissions:
-      heading: カービング競技
       like: 好きな作品
       moderate: ホスト
       participate: 競争に参加する

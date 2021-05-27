@@ -5,8 +5,6 @@
 maicol07-sso:
   admin:
     settings:
-      disable_login_btn: ログインボタンを無効にする
-      disable_signup_btn: サインアップボタンを無効にする
       login_url: ログインリンク
       logout_url: ログアウトリンク
       signup_url: 登録リンク

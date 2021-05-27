@@ -12,4 +12,3 @@ fof-html-errors:
         503: '503 サービスが利用できない（またはオフラインメンテナンス）'
       placeholder:
         empty_for_default: 'デフォルトの Flarum エラーページを使用するには空白のままにします'
-      title: 'カスタム HTML エラーページ'

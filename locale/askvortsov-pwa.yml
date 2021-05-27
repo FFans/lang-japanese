@@ -11,7 +11,6 @@ askvortsov-pwa:
       about:
         description_text: 説明は、管理パネルの「基本設定」ページで設定できます。
         heading: について
-        name_text: PWAで使用する長い名前を入力してください。
         short_name_text: 管理パネルの「基本設定」ページで短縮名を設定できます。
       colors:
         background_color_text: 'PWA が読み込まれたときに表示される初期画面のプレースホルダー色。アプリが実際に読み込まれた後は使用されません。'

@@ -4,10 +4,6 @@
 
 fof-analytics:
   admin:
-    page:
-      nav:
-        description: 'Piwik 統計をご覧ください'
-        title: 'Piwik 統計'
     popup:
       field:
         googleTrackingCode: 'Tracking Code ID'
@@ -26,7 +22,6 @@ fof-analytics:
       section:
         googleAnalytics: 'Google Analytics'
         piwik: Piwik
-      title: 統計設定
       trackAccounts:
         email: メールで追跡
         none: 追跡しません

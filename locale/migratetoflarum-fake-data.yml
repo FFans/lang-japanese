@@ -8,7 +8,6 @@ migratetoflarum-fake-data:
       discussion-count: 新しいトピックの数
       post-count: 新しい応答の数
       send: データを生成する
-      title: 偽のデータを生成する
       user-count: 新規ユーザー
   api:
     no-discussions-matched: 件名が見つかりません
